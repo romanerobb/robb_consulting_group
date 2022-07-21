@@ -21,14 +21,14 @@ body {
 .webtitle {
     font-weight: bold;
     font-size: 30px;
-    color: white;
+    color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 3.5em;
 }
 
 .about {
     font-weight: bold;
-    color: white;
+    color: #ffffff;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5em;
@@ -36,7 +36,7 @@ body {
 
 p {
     font-weight: bold;
-    color: white;
+    color: #ffffff;
     font-size: 20px;
     font-family: 'Inter', sans-serif;
     font-family: 'Nunito', sans-serif;
@@ -48,14 +48,14 @@ p {
 h2 {
     font-weight: bold;
     font-size: 25px;
-    color: white;
+    color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5em;
 }
 
 .copyright {
     font-weight: bold;
-    color: white;
+    color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 2em;
     font-size: 15px;
@@ -68,11 +68,11 @@ h2 {
 
 .footer {
     font-weight: bold;
-    color: white;
+    color: #ffffff;
     font-family: 'Oswald', sans-serif;
     line-height: 2em;
     font-size: 10px;
-    background-color: black;
+    background-color: #000000;
     max-width: fit-content;
     border-radius: 10px;
     padding: 0.5em 0.5em 0.5em 0.5em;
@@ -137,5 +137,9 @@ h2 {
 
 .button2:hover {
     color: #ffffff;
+    background-color: #000000;
+}
+
+.bg-dark {
     background-color: #000000;
 }
